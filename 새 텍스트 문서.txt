@@ -1,0 +1,15 @@
+
+git 저장소
+
+git init : 저장소 생성
+git status : 폴더의 상태확인
+git add 파일명
+git commit -m"heml table작업"
+git add * 한번에 모든 파일을 올리기
+
+
+
+ADD COMMIT PUSH
+
+
+ctrl+shift+h->add commit push
